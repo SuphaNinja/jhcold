@@ -1,0 +1,113 @@
+{
+  "navbar.home": "Hem",
+  "navbar.about": "Om oss",
+  "navbar.contact": "Kontakta",
+  "navbar.products": "Produkter",
+
+  "home.openHours": "Kundtjänst Öppettider mån-lör 07-19",
+  "home.contactUs": "Kontakta oss",
+  "home.wineAndCider": "INTENSO Tätskikt",
+  "home.headerInfo": "Välkommen till din pålitliga takläggare i Stockholm. Med lång erfarenhet och ett starkt fokus på kvalitet skapar vi tak som står sig över tid. Vi prioriterar service, ansvar och trygghet i alla våra takprojekt och riktar oss mot villaägare, föreningar och företag. Hör av dig när du behöver hjälp med att byta tak!",
+  "home.aboutUsTitle": "OM OSS",
+  "home.aboutTextOne": "Med 20 års erfarenhet grundade Antonio C, ursprungligen från Chile, företaget JHC Bygg och Plåt AB med en enkel men stark vision - att leverera högkvalitativ pappläggning och plåtslageri med en personlig touch. Med sin hantverkstradition och ett osvikligt sinne för detaljer byggde Antonio snabbt upp ett gott rykte i branschen. Hans engagemang för kvalitet och kundnöjdhet gjorde att företaget snart blev en ledande aktör inom pappläggning och plåtslageri i regionen.",
+  "home.aboutTextTwo": "Antonio började med en liten verkstad och ett par anställda, men med hårt arbete och dedikation har företaget vuxit stadigt. Idag är JHC Bygg och Plåt AB känt för sitt gedigna hantverk och sin förmåga att leverera skräddarsydda lösningar till både privatpersoner och företag.",
+  "home.aboutTextThree": "JHC Bygg och Plåt AB håller fast vid sina grundläggande värderingar och kombinerar tradition med innovation för att möta sina kunders utvecklande behov.",
+
+  "footer.phone":"Tel:",
+  "footer.email":"E-post:",
+  "footer.customerService": "Kundtjänst",
+  "footer.customerService.mon-sat":"Tis-lör: 07-19",
+  "footer.info.dogsAreWelcome": "Kampanj!",
+  "footer.info.bookingInfo": "Vi bjuder på besiktningen denna månad!",
+
+  "contact.header":"Vad kan vi hjälpa dig med idag?",
+
+  "contact.customerService":"Kontakta Kundtjänst",
+  "contact.customerService.header":"Behöver du hjälp? Kontakta vår kundtjänst!",
+  "contact.customerService.firstName":"Namn",
+  "contact.customerService.lastName":"Efternamn",
+  "contact.customerService.email":"Skriv in din mejladress här",
+  "contact.customerService.email1": "Mejl",
+  "contact.customerService.phone":"Skriv in ditt telefonnummer här",
+  "contact.customerService.phone1": "Telefon",
+  "contact.customerService.submitButton":"Kontakta kundtjänst!",
+  "contact.customerService.description": "Beskriv vad du behöver hjälp med.",
+  "contact.customerService.bookingRequest":"Pågående prisförfrågan?",
+
+  "contact.booking.header":"Vill du få en offert? Fyll i formuläret nedan!",
+
+  "contact.booking":"Prisförfrågan",
+  "contact.booking.roofType":"Önskad taktyp",
+  "contact.booking.roofType1":"Plåttak",
+  "contact.booking.roofType2":"Betong och Tegelpannor",
+  "contact.booking.roofType3":"Papptak",
+  "contact.booking.roofType4":"Tätskikt",
+  "contact.booking.roofType5":"Takskottning",
+  "contact.booking.roofType6":"Grönt tak",
+  "contact.booking.roofType7":"Membranisolering",
+
+  "contact.booking.whatToDo":"Vad ska göras?",
+  "contact.booking.whatToDo1":"Omläggning",
+  "contact.booking.whatToDo2":"Reparationsarbete",
+  "contact.booking.whatToDo3":"Nyproduktion",
+  "contact.booking.whatToDo4":"Annat (skriv i övrigt)",
+
+  "contact.booking.typeOfHouse":"Typ av fastighet",
+  "contact.booking.typeOfHouse1":"BRF",
+  "contact.booking.typeOfHouse2":"Radhus",
+  "contact.booking.typeOfHouse3":"Villa",
+  "contact.booking.typeOfHouse4":"Annat (skriv i övrigt)",
+
+  "contact.booking.scaffolding":"Byggnadsställning?",
+  "contact.booking.scaffolding1":"Ja",
+  "contact.booking.scaffolding2":"Nej",
+
+  "contact.booking.other": "Övrigt",
+  "contact.booking.other1": "Mer information...",
+  "contact.booking.kvm": "Kvm Takyta",
+  "contact.booking.built": "Fastighetens byggår?",
+
+  "contact.customerService.adress":"Adress",
+  "contact.booking.submitButton":"Skicka gratis prisförfrågan!",
+
+  "booking.confirmation.toast":"Ett bekräftelsemejl har skickats till dig.",
+  "booking.success.toast":"Tack!",
+  "booking.error.toast":"Något gick fel, försök igen senare.",
+  "booking.error.toast1":"Fel!",
+
+  "service.confirmation.toast":"Kundtjänst kommer kontakta dig via mejl.",
+
+  "about.contactUs": "Kontakta oss",
+  "about.header1":"Plåt Tak",
+  "about.header2":"Koppar Tak",
+  "about.header3":"Papp Tak",
+  "about.header4":"Solpaneler/ infästningsplattor",
+  "about.header5":"Tegelpannor",
+  "about.header6":"Snöskottning",
+  "about.description1":"Att lägga ett plåttak på en villa innebär att montera takplåtar noggrant för att säkerställa ett hållbart och vädertåligt skydd. Arbetet kräver precision för att säkra korrekt tätning och passform på taket.",
+  "about.description2":"Att lägga ett koppartak på en villa innebär att montera kopparplåtar som inte bara ger ett elegant utseende, utan också ett tak som åldras vackert över tid. Noggrannhet krävs för att säkerställa täthet och långvarig hållbarhet mot väderpåverkan.",
+  "about.description3":"Att lägga ett papptak på en villa innebär att rulla ut och fästa takpapp för ett smidigt och kostnadseffektivt skydd. Arbetet kräver noggrann installation för att säkerställa vattenavvisning och långvarig hållbarhet.",
+  "about.description4":"Att installera solpaneler på en villa innebär att montera solceller för att omvandla solljus till el. Arbetet kräver noggrann planering för att optimera energiproduktionen och säkerställa långsiktig effektivitet.",
+  "about.description5":"Att lägga tegelpannor på en villa innebär att noggrant placera varje panna för att skapa ett klassiskt och hållbart tak. Arbetet kräver precision för att säkerställa skydd mot väder och vind samt lång livslängd.",
+  "about.description6":"Att utföra snöskottning på en villa innebär att avlägsna snö från taket för att förhindra överbelastning och skador. Arbetet kräver noggrannhet och rätt utrustning för att säkerställa att taket förblir säkert och funktionellt under vintermånaderna.",
+
+  "products.title1":"Intenso Läderhandske get",
+  "products.title2":"Intenso Läderhandske buffel",
+  "products.title3":"Intenso Läderhandske buffel greige",
+  "products.title4":"Intenso Läderhandske ko",
+  "products.description1": "Dessa arbetshandskar är tillverkade av getläder, vilket är känt för sin smidighet och mjukhet samtidigt som det är ett tåligt och slitstarkt material. Getläder ger användaren möjlighet att utföra uppgifter som kräver precision samtidigt som det erbjuder skydd mot slitage och skador. Den vita färgen på handskarna ger dem ett rent och professionellt utseende. Vit färg kan också vara praktisk i vissa sammanhang eftersom smuts eller fläckar blir tydligare, vilket kan underlätta för användaren att upptäcka och rengöra dem när det behövs. Den röda kanten ger handskarna en visuell detalj och kan även bidra till att öka synligheten, vilket är viktigt i arbetsmiljöer där synlighet är en säkerhetsfaktor. Storleken Large (L) är idealisk för användare med större händer och ger en bekväm passform. En korrekt passform är avgörande för användarens komfort och förmåga att utföra arbetsuppgifter med precision.",
+  "products.description2": "Arbetshandskar i buffelläder i vit färg, tillgängliga i storlekarna Small (S), Medium (M) och Large (L), utgör en pålitlig och mångsidig lösning för en mängd olika arbetsuppgifter och användningsområden. Buffelläder är känt för sin överlägsna hållbarhet och tålighet. Detta material är väl lämpat för arbets- och skyddshandskar eftersom det kan motstå slitage och påfrestningar under krävande arbetsförhållanden. Arbetshandskar i buffelläder erbjuder inte bara hållbarhet utan även en känsla av pålitlighet och styrka för användaren. Färgen vit är inte bara estetiskt tilltalande utan också praktisk, då den gör det lättare att upptäcka smuts och fläckar på handskarna. Detta kan vara särskilt viktigt inom områden där renlighet och noggrannhet är av",
+  "products.description3": "Arbetshandskar i beige buffelläder, tillgängliga i storlekarna Small (S), Medium (M) och Large (L), utgör en pålitlig och mångsidig lösning för en rad olika arbetsuppgifter och användningsområden. Buffelläder är känt för sin överlägsna hållbarhet och tålighet. Detta material är väl lämpat för arbets- och skyddshandskar eftersom det kan motstå slitage och påfrestningar under krävande arbetsförhållanden. Arbetshandskar i beige buffelläder kombinerar estetik med robusthet och ger användaren både en stilfull look och pålitligt skydd. Färgen beige är tidlös och passar bra i olika sammanhang. Den ger handskarna ett tidlöst och professionellt utseende samtidigt som den kan vara praktisk för att inte visa smuts och fläckar på samma sätt som ljusa färger kan göra.",
+  "products.description4": "Dessa arbetshandskar är tillverkade av koläder, som är känt för sin robusthet och tålighet. Koläder är naturligt starkt och tåligt, vilket gör det till ett utmärkt val för arbets- och skyddshandskar. Det kan stå emot slitage och påfrestningar under krävande arbetsförhållanden. Den karakteristiska gula färgen ger handskarna en synlig och iögonfallande utseende. Gul färg kan vara fördelaktig i situationer där synlighet är viktig, särskilt i arbetsmiljöer där användarna behöver vara tydligt synliga. Tillgängligheten i olika storlekar - Medium (M), Large (L) och Extra Large (XL) - är avgörande för att möta olika användares behov. En korrekt passform är viktig för användarens komfort och prestanda, och att ha flera storleksalternativ säkerställer att användarna kan hitta rätt storlek.",
+
+  "products.feature1": "PRODUKTER FÖR PROFFS",
+  "products.feature2": "30 DAGARS ÖPPET KÖP",
+  "products.feature3": " SNABBA LEVERANSER",
+
+  "products.availableSizes": "Storlekar",
+
+  "products.pageTitle": "Produkter",
+  "products.callToAction": "Vill du köpa?",
+  "products.contactInfo": "Ring oss!"
+
+}

@@ -1,0 +1,116 @@
+{
+  "navbar.home": "Home",
+  "navbar.about": "About",
+  "navbar.contact": "Contact",
+  "navbar.products": "Products",
+
+  "home.openHours": "Customer Service mon-sat 07-19",
+  "home.contactUs": "Contact Us",
+  "home.summerClosed": "Closed for summer July 9th - August 14th",
+  "home.wineAndCider": "INTENSO Tätskikt",
+  "home.headerInfo": "Welcome to your trusted roofing contractor in Stockholm. With extensive experience and a strong focus on quality, we create roofs that stand the test of time. We prioritize service, responsibility, and reliability in all our roofing projects, associations, and businesses alike. Reach out to us when you need help with a roof replacement!",
+  "home.aboutUsTitle": "ABOUT US",
+  "home.aboutTextOne": "With 20 years of experience, Antonio C., originally from Chile, founded the company JHC Bygg och Plåt AB with a simple yet strong vision — to deliver high-quality roofing and metalwork with a personal touch. With his craftsmanship tradition and an unwavering attention to detail, Antonio quickly built a solid reputation in the industry. His commitment to quality and customer satisfaction soon made the company a leading player in roofing and metalwork in the region.",
+  "home.aboutTextTwo": "Antonio started with a small workshop and a few employees, but through hard work and dedication, the company has steadily grown. Today, JHC Bygg och Plåt AB is known for its solid craftsmanship and ability to deliver customized solutions to both private individuals and businesses. ",
+  "home.aboutTextThree": "JHC Bygg och Plåt AB continues to uphold its founding values, combining tradition with innovation to meet the evolving needs of its clients.",
+
+  "footer.phone":"Phone:",
+  "footer.email":"Email:",
+  "footer.customerService": "Customer Service",
+  "footer.customerService.mon-sat":"Mon-Sat: 07-19",
+  "footer.info.dogsAreWelcome": "Promotion!",
+  "footer.info.bookingInfo": "Inspection is free this month!",
+
+  "contact.header":"What can we help you with today?",
+
+  "contact.customerService":"Customer Service",
+  "contact.customerService.header":"Need help? Contact our customer service!",
+  "contact.customerService.firstName":"First Name",
+  "contact.customerService.lastName":"Last Name",
+  "contact.customerService.email":"Enter your email adress here",
+  "contact.customerService.email1":"Email",
+  "contact.customerService.phone":"Enter your phone number here",
+  "contact.customerService.phone1": "Phone",
+  "contact.customerService.submitButton":"Contact customer service!",
+  "contact.customerService.description": "Describe what you need help with.",
+  "contact.customerService.bookingRequest":"Existing price request?",
+
+  "contact.booking.header":"Want an offer? Complete the form below!",
+
+  "contact.booking":"Price Request",
+  "contact.booking.roofType":"Desired rooftype",
+  "contact.booking.roofType1":"Metal roof",
+  "contact.booking.roofType2":"Concrete and tile roofing",
+  "contact.booking.roofType3":"Tar paper roof",
+  "contact.booking.roofType4":"Waterproofing layer",
+  "contact.booking.roofType5":"Roof snow removal",
+  "contact.booking.roofType6":"Green roof",
+  "contact.booking.roofType7":"Membrane insulation",
+
+  "contact.booking.whatToDo":"What should be done?",
+  "contact.booking.whatToDo1":"Re-roofing or Resurfacing",
+  "contact.booking.whatToDo2":"Repair work",
+  "contact.booking.whatToDo3":"New construction",
+  "contact.booking.whatToDo4":"Other (please specify)",
+
+  "contact.booking.typeOfHouse":"Type of building",
+  "contact.booking.typeOfHouse1":"BRF",
+  "contact.booking.typeOfHouse2":"Townhouse",
+  "contact.booking.typeOfHouse3":"Detached house or Villa",
+  "contact.booking.typeOfHouse4":"Other (please specify)",
+
+  "contact.booking.scaffolding":"Does scaffolding exist?",
+  "contact.booking.scaffolding1":"Yes",
+  "contact.booking.scaffolding2":"No",
+
+  "contact.booking.other": "Other",
+  "contact.booking.other1": "Additional information...",
+
+  "contact.booking.kvm": "Roof Area (sqm)",
+  "contact.booking.built": "What year was it built?",
+
+  "contact.customerService.adress":"Address",
+  "contact.booking.submitButton":"Send free price request!",
+
+  "booking.confirmation.toast":"A confirmation has been sent to your email.",
+  "booking.success.toast":"Success!",
+  "booking.error.toast":"Something went wrong, please try again later.",
+  "booking.error.toast1":"Error!",
+
+  "service.confirmation.toast":"Customer service will contact you via email.",
+
+  "about.contactUs": "Contact us",
+  "about.header1":"Metal Roof",
+  "about.header2":"Copper Roof",
+  "about.header3":"Bitumen Roof",
+  "about.header4":"Solar Panels / Mounting Plates",
+  "about.header5":"Clay Tiles",
+  "about.header6":"Snow Removal",
+  "about.description1":"Installing a metal roof on a house involves carefully placing the roof panels to ensure durable and weather-resistant protection. The job requires precision to ensure proper sealing and fit on the roof.",
+  "about.description2":"Installing a copper roof on a house involves fitting copper sheets that not only provide an elegant appearance but also create a roof that ages beautifully over time. Precision is required to ensure proper sealing and long-lasting durability against weather conditions.",
+  "about.description3":"Installing a bitumen roof on a house involves rolling out and securing roofing felt for a smooth and cost-effective protection. The job requires careful installation to ensure water resistance and long-term durability.",
+  "about.description4":"Installing solar panels on a house involves mounting solar cells to convert sunlight into electricity. The job requires careful planning to optimize energy production and ensure long-term efficiency.",
+  "about.description5":"Installing clay tiles on a house involves carefully placing each tile to create a classic and durable roof. The job requires precision to ensure protection against the elements and a long lifespan.",
+  "about.description6":"Performing snow removal on a house involves clearing snow from the roof to prevent overload and damage. The job requires careful handling and proper equipment to ensure the roof remains safe and functional during the winter months.",
+
+  "products.title1":"Intenso Leatherglove goat",
+  "products.title2": "Intenso Leather Glove Buffalo",
+  "products.title3": "Intenso Leather Glove Buffalo Greige",
+  "products.title4": "Intenso Leather Glove Cowhide",
+  "products.description1": "These work gloves are made from goatskin, known for its flexibility and softness while being a durable and resilient material. Goatskin allows the user to perform tasks that require precision while providing protection against wear and tear. The white color of the gloves gives them a clean and professional appearance. White can also be practical in certain contexts as dirt or stains become more noticeable, making it easier for the user to spot and clean them when necessary. The red edge adds a visual detail to the gloves and can also help enhance visibility, which is important in work environments where visibility is a safety factor. Size Large (L) is ideal for users with larger hands, providing a comfortable fit. A proper fit is crucial for the user's comfort and ability to perform tasks with precision.",
+  "products.description2": "Work gloves made of buffalo leather in white color, available in sizes Small (S), Medium (M), and Large (L), provide a reliable and versatile solution for a wide range of tasks and applications. Buffalo leather is known for its superior durability and toughness. This material is well-suited for work and protective gloves as it can withstand wear and tear under demanding work conditions. Buffalo leather work gloves not only offer durability but also provide a sense of reliability and strength for the user. The white color is not only aesthetically pleasing but also practical, as it makes it easier to spot dirt and stains on the gloves. This can be especially important in areas where cleanliness and attention to detail are essential.",
+  "products.description3": "Work gloves made of beige buffalo leather, available in sizes Small (S), Medium (M), and Large (L), provide a reliable and versatile solution for a variety of tasks and applications. Buffalo leather is renowned for its superior durability and toughness. This material is well-suited for work and protective gloves, as it can resist wear and stress in demanding work environments. Beige buffalo leather work gloves combine aesthetics with robustness, offering the user both a stylish look and dependable protection. The beige color is timeless and suitable for various contexts. It gives the gloves a classic and professional appearance while being practical, as it does not show dirt and stains as prominently as lighter colors.",
+  "products.description4": "These work gloves are made of cowhide leather, known for its sturdiness and durability. Cowhide leather is naturally strong and resilient, making it an excellent choice for work and protective gloves. It can withstand wear and stress under demanding work conditions. The distinctive yellow color gives the gloves a visible and eye-catching appearance. Yellow can be advantageous in situations where visibility is important, especially in work environments where users need to be clearly visible. The availability of different sizes - Medium (M), Large (L), and Extra Large (XL) - is essential to meet the needs of various users. A proper fit is important for the user's comfort and performance, and having multiple size options ensures users can find the right size.",
+
+  "products.feature1": "PRODUCTS FOR PROFFESIONALS",
+  "products.feature2": "30 DAYS OPEN PURCHASE",
+  "products.feature3": "QUICK DELIVERY",
+
+  "products.availableSizes": "Sizes",
+  
+  "products.pageTitle": "Products",
+  "products.callToAction": "Looking to buy?",
+  "products.contactInfo": "Call us!"
+}
+
+
